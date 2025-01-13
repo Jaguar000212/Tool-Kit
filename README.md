@@ -25,13 +25,20 @@ Tool Kit is crafted for everyone. Whether you're a student needing quick calcula
 2. **Loan Calculator**  
    Calculate monthly payments, total interest, and total payment for your loans.
 
+3. **Counter**  
+   Keep track of counts for events, items, or activities.
+
+4. **Age Calculator**  
+   Calculate age in years, months, and days.
+
 ### 🛠️ Under Development:
 
 These tools are currently in development:
 
 - **Scoreboard**: Manage scores for games and activities.
-- **Counter**: Keep track of counts for events, items, or activities.
 - **Random Number Generator**: Generate random numbers within a specified range.
+
+> Shifiting codebase to Kotlin for optimization and efficiency.
 
 ### 🔮 Coming Soon:
 
@@ -57,8 +64,7 @@ These tools are planned for future releases and grouped by priority:
 13. **Ratios**: Calculate and simplify ratios.
 14. **Percentage Calculator**: Perform percentage-based calculations.
 15. **Decimal to Fraction Converter**: Convert decimal numbers into fractions.
-16. **Age Calculator**: Calculate age in years, months, and days.
-17. **Geometry Calculator**: Perform calculations for shapes like circles, rectangles, and triangles.
+16. **Geometry Calculator**: Perform calculations for shapes like circles, rectangles, and triangles.
 
 ---
 
